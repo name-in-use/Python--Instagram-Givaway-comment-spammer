@@ -1,6 +1,9 @@
 # Python-Instagram-Givaway-comment-spammer
 ## Get a bigger chance to win a givaway by auto writing comments with this script ##
 
+
+First install Chrome Driver based on your chrime vesrion. https://chromedriver.chromium.org/downloads
+
 in the .py file:
 
 Replace GIVAWAY URL with the givaway url of your choice
