@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support import ui
 import random
 '''
-Christos Karounias IG spammer
+Christos IG spammer
 '''
 class InstaBot:
     def __init__(self, username, pw):
